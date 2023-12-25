@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello Friends 👋
 
 <!--
 **philam2001/philam2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Creating lame/hopefully cool stuff to learn things I'm curious 💡 about. Some things about me: <p></p>
+📚 UBC Electrical Engineering 
+<p></p>
+⚡ UBC Formula Electric <p></p>
+🦋 ΚΚΓ <p></p>
+
+You can call me by what my greek friends know me as, ΦΛ 😁
