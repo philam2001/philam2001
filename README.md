@@ -10,8 +10,7 @@ I'm a multidisciplinary builder working across low-level systems, machine + deep
 
 ### 🚧 What I'm Working On
 
-- ⚡ Building low-latency systems and trading infrastructure experiments
-- 🔧 FPGA + hardware acceleration projects
+- ⚡ Building a Low-Latency Quant Trading System with @thiagoamin [See More](https://github.com/thiagoamin/tradingsystem)
 
 <h3 align="left"> 🧰 Languages and Tools:</h3>
 
