@@ -40,6 +40,6 @@ I'm a multidisciplinary builder working across low-level systems, machine + deep
 - 🎨 Art and crocheting  
 - 🧩 Puzzles and strategy games  
 - 🀄 Currently learning Mandarin  
-- 👨‍💻 All of my projects are available at [phiyenlam.com](phiyenlam.com)
+- 👨‍💻 All of my projects are available at [phiyenlam.com](https://phiyenlam.com)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=philam2001&label=Profile%20views&color=0e75b6&style=flat" alt="philam2001" /> </p>
