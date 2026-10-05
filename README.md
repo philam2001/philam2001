@@ -1,5 +1,5 @@
 # 🦋 𝐏𝐡𝐢 𝐋𝐚𝐦
-**` Systems & Low-Level Software | C/C++ | Electrical Engineering Graduate`**
+**` Systems & Low-Level Software | C/C++ | Computer Science Master Student | Electrical Engineering Graduate`**
 
 I'm a multidisciplinary builder working across low-level systems, machine + deep learning, hardware + fpga, and backend systems. 
 
